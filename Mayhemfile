@@ -1,4 +1,4 @@
-project: wgibbs15/ropr-mayhem
+project: ropr-mayhem
 
 # Target name (should be unique within the project)
 target: ropr-fuzz
